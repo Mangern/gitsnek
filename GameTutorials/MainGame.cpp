@@ -29,6 +29,7 @@ void MainGame::run() {
             // Add a bunch of blank space to "clear" the command prompt
             for (int i = 0; i < 3; i++) {
                 printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+				//egg
             }
         }
     }
